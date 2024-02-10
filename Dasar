@@ -1,7 +1,14 @@
-|Tipe Data Primitif dan Tool Console|
-Tipe data primitif :
+🔑 Tipe Data Primitif dan Tool Console
+📝 Tipe data primitif :
     1. number
     2. string
     3. boolean
     4. null
     5. undefined
+📝 Console :
+console melakukan RPEL (Read Evaluate Print Loop)
+
+🔑 Tipe Data Numbers
+tipe data satu jenis => desimal, positif, negatif, semua jenis angka
+🔑 NaN (Not a Number) output dari hasil angka yang tidak valid
+hasil NaN ketika NaN di operasikan dengan apapun dan 0/0 serta angka tidak valid
