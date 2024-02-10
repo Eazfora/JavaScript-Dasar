@@ -1,0 +1,24 @@
+🔑 tipe data string => teks yang di bungkus tanda kutip '' / ""
+'saya "belajar" ' => saya "belajar"
+"saya 'belajar' " => saya 'belajar'
+
+🔑 typeof => untuk mengecek sebuah tipe data
+
+🔑 index pada string => spasi juga di hitung
+Contoh : 
+let nama = 'agung f';
+panggilindeks : 
+nama[0] => a
+nama[1] => g
+nama[2] => u
+nama[3] => n
+nama[4] => g
+nama[5] => ''
+nama[6] => f
+
+nama.length => 7
+
+🔑 Method pada javascript
+Contoh: 
+let nama = "agung";
+nama.toUpperCase() // ini method
